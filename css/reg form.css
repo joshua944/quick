@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body,html{
+    overflow-x: hidden;
+}
+body{
+    height: 100%;
+}
+
+
+#life{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(80, 80, 190);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+   
+    
+}
+
+.registration__text{
+    text-align: center;
+}
+.me{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+
+@media (max-width:1024px){
+    table{
+        overflow-x:scroll;
+    }
+}

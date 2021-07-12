@@ -1,0 +1,66 @@
+#header{
+    text-align: center;
+    border: solid;
+    margin: -10px -10px;
+    padding: 60px 40px;
+    color: white;
+    background-color: turquoise;
+    background-image:linear-gradient(to right rgb(14, 134, 14), white rgb(66, 66, 228)) ;
+}
+
+button{
+    border: solid rgba(255, 255, 255, 0.432);
+    background-color: rgba(255, 255, 255, 0.247);
+    color: white;
+}
+
+#body{
+    /* text-align: center; */
+    /* display: block; */
+    float: right;
+    margin-right: 23em;
+}
+
+h3{
+    font: lighter;
+    margin-bottom: -10px;
+    color: turquoise;
+}
+
+.okay{
+    /* border: solid; */
+    margin: 2px 2px;
+    background-color: rgba(128, 128, 128, 0.466);
+}
+
+p{
+    color: red;
+    /* margin-bottom: -10px; */
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+a:hover{
+    color: yellow;
+    text-decoration: underline; 
+    cursor: pointer;
+}
+
+.head{
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.555);
+    animation: infinite;
+}
+
+button:increment{
+    color: white;
+    
+}
+

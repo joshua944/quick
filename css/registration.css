@@ -1,0 +1,41 @@
+
+
+body{
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+
+}
+
+.table {
+    border: navy;
+    background-color: navy;
+    width: 400px;
+    height: 460px;
+    
+}
+
+h3{
+    color: white;
+}
+
+.container{
+    margin: 500px;
+    text-align: center;
+}
+
+button {
+ margin-left: 100px;
+ margin-bottom: 20px;
+ display: block;
+ padding: 5px 15px 5px 15px ;
+ width: 250px;
+}
+
+.table button{
+   
+}
+
+.table tr button{
+    width: 70px;
+}
